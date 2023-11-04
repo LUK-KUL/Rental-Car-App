@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "E:/lukkulrepo/Rental-Car-App/rentalcars/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "E:/lukkulrepo/Rental-Car-App/rentalcars/./frontend/generated/jar-resources",
+  "staticOutput": "E:/lukkulrepo/Rental-Car-App/rentalcars/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "E:\\lukkulrepo\\Rental-Car-App\\rentalcars\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "E:\\lukkulrepo\\Rental-Car-App\\rentalcars\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "E:/lukkulrepo/Rental-Car-App/rentalcars/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "E:/lukkulrepo/Rental-Car-App/rentalcars/src/main/dev-bundle/config",
+  "jarResourcesFolder": "E:/lukkulrepo/Rental-Car-App/rentalcars/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "E:\\lukkulrepo\\Rental-Car-App\\rentalcars\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
